@@ -9,6 +9,8 @@
     of Metallic Nanoprisms on the Plasmonic Resonance Wavelength." J. Russ. Laser Res. 44 (6) 627--637 (2023).
     https://doi.org/10.1007/s10946-023-10171-5
 
+  A similar code for a cylinder with rounded edges can be found at https://github.com/kondorskiy/rod.
+
   Corresponding author e-mail: kondorskiy@lebedev.ru, kondorskiy@gmail.com.
 
 ======================================================================================================================*/
