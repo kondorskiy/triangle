@@ -5,9 +5,9 @@
     of a triangular nanoprism with rounded corners to the extinction and scattering cross sections using
     the the analytical model, including the size-dependent dielectric function for silver and gold.
 
-  Please cite the following paper:
-    Alexey D. Kondorskiy and Arseny V. Mekshun, Journal of Russian Laser Research, Vol. XX, XXX-XXX, (2023).
-    DOI XXXXXXX/XXXXXXXX.
+  Please cite the following paper: A.D. Kondorskiy, A.V. Mekshun, "Effect of Geometric Parameters
+    of Metallic Nanoprisms on the Plasmonic Resonance Wavelength." J. Russ. Laser Res. 44 (6) 627--637 (2023).
+    https://doi.org/10.1007/s10946-023-10171-5
 
   Corresponding author e-mail: kondorskiy@lebedev.ru, kondorskiy@gmail.com.
 
